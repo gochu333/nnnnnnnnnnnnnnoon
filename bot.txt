@@ -1,0 +1,6 @@
+
+ip = dishamallik.aternos.me 
+
+port =54935
+
+player name = gochu333
